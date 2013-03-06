@@ -12,6 +12,6 @@
 
 @property (weak, nonatomic) IBOutlet UILabel *display;
 - (IBAction)digitPressed:(id)sender;
-
+//prepei na dilwseis kai tis alles 2 energeies (operationPressed , enterPressed)
 
 @end
